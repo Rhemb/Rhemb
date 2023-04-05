@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ⋆ 🌱 I am currently a student at coding dojo (looking to specialize in Front End Web Development)  
-⋆ 🔭 I’m currently seeking for an internship opportunities or work!  
+⋆ 🔭 I’m currently seeking for internship opportunities or work!  
 ⋆ 🎮 Hobbies:  
     - Bowling  
     - Video Games  
