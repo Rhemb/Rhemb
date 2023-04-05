@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋
+
+⋆ 🌱 I am currently a student at coding dojo (looking to specialize in Front End Web Development)
+⋆ 🔭 I’m currently seeking for an internship opportunities or work!
+⋆ 🎮 Hobbies:
+    - Bowling
+    - Video Games
+    - Crochet
+    - Traveling/Hiking
+⋆ 📫 How to reach me: [email](rheanne.bande@gmail.com) , [LinkedIn](https://www.linkedin.com/in/rheanne-bande/) or through Direct Message!
 
 <!--
 **Rhemb/Rhemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
