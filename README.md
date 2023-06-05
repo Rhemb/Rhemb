@@ -13,7 +13,7 @@
 </h1>
 
 ### :woman_technologist: About Me
-<p>🌱 Currently a student at coding dojo (looking to specialize in Front End Web Development)</p>
+<p>🌱 Currently a student at coding dojo (training to specialize in Front End Web Development)</p>
 <p>🔭 I’m currently seeking for internship opportunities or work!</p>
 🎮 Hobbies:
 <ul>
