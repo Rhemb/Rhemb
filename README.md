@@ -13,7 +13,7 @@
 </h1>
 
 ### :woman_technologist: About Me
-<p>🌱 Training to specialize in Front End Web Development at Coding Dojo </p>
+<p>🌱 Software Engineer specializing in Front End Web Development</p>
 <p>🔭 I’m currently seeking for internships or full time opportunities!</p>
 🎮 Hobbies:
 <ul>
